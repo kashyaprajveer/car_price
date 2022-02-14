@@ -1,0 +1,5 @@
+1) Create a new conda environment carprediction using python 3.7.
+2) Go to working directory and launch jupyter notebook.
+3) Create your model in Jupyter ntebook.
+4) Create requirement.txt
+5) pip freeze > requirements.txt or pipreqs ./
